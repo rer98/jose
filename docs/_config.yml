@@ -1,7 +1,7 @@
-repository: rer98/joseLib
+repository: rer98/jose
 output: web
-topnav_title: joseLib
-site_title: joseLib
+topnav_title: jose
+site_title: jose
 company_name: Ross Richardson
 description: A test of nbdev.
 # Set to false to disable KaTeX math
